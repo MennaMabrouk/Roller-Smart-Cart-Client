@@ -1,6 +1,6 @@
 # 🛒 Roller Smart Cart – Frontend (Angular)
 
-This is the **Angular frontend** for the **Roller Smart Cart** project — a smart shopping solution that integrates product detection, real-time updates and checkout.
+This is the **Angular frontend** for the **Roller Smart Cart** — my **graduation project**, built as a smart shopping system that integrates product detection, real-time cart updates and seamless checkout.
 
 ## 🚀 Technologies Used
 

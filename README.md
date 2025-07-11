@@ -5,7 +5,7 @@ This is the **Angular frontend** for the **Roller Smart Cart** — my **graduati
 ## 🚀 Technologies Used
 
 - **Angular 17** with Standalone Components
-- **Bootstrap** and **Tailwind CSS** for styling
+- **Bootstrap** and **CSS** for styling
 - **SignalR** for real-time communication
 
 
